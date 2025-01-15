@@ -1,17 +1,3 @@
-"""
-SCRIPT: ETL_toll_data.py
-AUTHOR: Pravin Regismond
-DATE: 2024-04-20
-DESCRIPTION: Final Assignment (Part 1) - Creating ETL Data Pipelines using
-             Apache Airflow
-
-AUDIT TRAIL START                               INIT  DATE
-----------------------------------------------  ----- -----------
-1. Initial version                              PR    2024-04-20
-
-AUDIT TRAIL END
-"""
-
 # Import libraries
 import csv
 import os
